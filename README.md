@@ -6,7 +6,7 @@ however, make this process a bit daunting for new users.
 
 This repository provides simple convenience macros that simplify the configuration for
 many common use cases. It results in a "node-free" user configuration with a more
-streamlined syntax. Check out [example.keymap](example.keymap) to see it in action.
+streamlined syntax. Check out [example.keymap](example.keymap) to see it in action
 
 See [changelog](#changelog) for latest changes.
 
@@ -441,3 +441,4 @@ ZMK_BEHAVIOR(hmr, hold_tap,  // right-hand HRMs
 [^3]: Swedish character support was added by discord user "captainwoot". Danish
   character support was added by [@zonique2k](https://github.com/zonique2k). French
   character support was added by [@artggd](https://github.com/artggd).
+
